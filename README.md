@@ -11,7 +11,7 @@ including housing price predictions and my graduate capstone project.
   
 - 💬 Ask me about: Data cleaning, regression analysis, or combining creativity and data.
   
-- 📫 How to reach me: LinkedIn, Email or via GitHub
+- 📫 How to reach me: LinkedIn or via GitHub
 
 - 😄 Pronouns: She/Her
 
