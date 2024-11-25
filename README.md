@@ -18,10 +18,13 @@ including housing price predictions and my graduate capstone project.
 - ⚡ Fun fact: I love photography (and I’m building my own photography website), exploring new places, cooking, and I’m an animal lover! 🐾
 
 
-### 🧰 Some Tools I Have Used:
+### 🚀 Some Tools I Have Learned and Used:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/344/tableau-software.png" alt="Tableau Public" width="40" height="40"/> 
-<img src="https://img.icons8.com/fluency/344/anaconda.png" alt="Anaconda" width="40" height="40"/>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/344/tableau-software.png" alt="Tableau Public" width="40" height="40"/> 
+  <img src="https://img.icons8.com/fluency/344/anaconda.png" alt="Anaconda" width="40" height="40"/>
+</div>
+
 
