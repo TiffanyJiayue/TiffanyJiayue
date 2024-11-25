@@ -26,7 +26,6 @@ including housing price predictions and my graduate capstone project.
   <img src="https://img.icons8.com/color/344/tableau-software.png" alt="Tableau Public" width="40" height="40"/> 
   <img src="https://img.icons8.com/fluency/344/anaconda.png" alt="Anaconda" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Stata-Logo.png" alt="Stata" width="80" height="30"/>
 </div>
 
 
