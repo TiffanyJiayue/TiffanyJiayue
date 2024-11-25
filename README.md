@@ -25,6 +25,8 @@ including housing price predictions and my graduate capstone project.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/344/tableau-software.png" alt="Tableau Public" width="40" height="40"/> 
   <img src="https://img.icons8.com/fluency/344/anaconda.png" alt="Anaconda" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/344/external-stata-statistical-analysis-flat-flat-juicy-fish.png" alt="Stata" width="40" height="40"/>
 </div>
 
 
