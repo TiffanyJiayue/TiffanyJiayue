@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on: Enhancing my portfolio by showcasing data analysis projects, 
 including housing price predictions and my graduate capstone project.
 
+- 🎓 Education: I hold a Master of Science in Quantitative Economics from the University of Pittsburgh and a Bachelor of Arts in Business Management Economics from the University of California, Santa Cruz.
+
 - 🌱 I’m currently learning: SQL and machine learning techniques to excel in data-driven problem-solving. I'm also interested in AI, as I believe future trends will be closely intertwined with advancements in this field.
   
 - 👯 I’m looking to collaborate on: Projects involving predictive modeling, data storytelling, or research on economic and policy issues.
